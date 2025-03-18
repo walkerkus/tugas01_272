@@ -1,0 +1,17 @@
+.wel {
+    
+}
+
+h2{
+    color: orange;
+}
+
+.contentku {
+    display: flex;
+    justify-content: center;
+   
+    margin: auto;
+    margin-top: 50px;
+    width: max-content;
+    gap: 10px;
+}

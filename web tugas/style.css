@@ -1,0 +1,127 @@
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+  
+}
+
+.navigation {
+    margin: auto;
+
+}
+
+body{
+    background-color: rgb(9,64,92);
+}
+
+.judul {
+    margin: auto;
+    text-align: center;
+    width: max-content;
+}
+
+.judul hr {
+    margin: 0;
+    border: none;
+    height: 2px; 
+    background-color: white; 
+}
+
+.wel {
+    margin: 0; /* Hilangkan jarak di atas & bawah teks */
+    padding: 0;
+}
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    margin: auto;
+    margin-top: 50px;
+    width: max-content;
+    gap: 10px;
+}
+
+.dis {
+   
+    width: max-content;
+    
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto {
+    width: 300px;
+    
+}
+
+.saya {
+    
+}
+
+button{
+    border: 0cap ;
+    background-color: rgb(9,64,92);
+    color: white;
+}
+
+button:hover {
+    background-color: orange;
+    color: black !important;
+    border-radius: 10px;
+}
+.HOME:hover {
+    color: black;
+}
+h1{
+    color: white;
+}
+p {
+    color: white;
+}
+
+.wel {
+    color: orange;
+}
+
+.CV {
+    background-color: rgb(108, 72, 5);
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.img-kontak {
+    display: flex;
+    margin-top: 20px;
+    gap: 20px;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    
+}
+
+
+.logoku {
+    width: 70px;
+    
+}
+
+.logo:hover{
+    background-color: orange;
+}
+
+.kontak{
+    margin: auto;
+    width: max-content;
+    
+}
+
+.btn-kontak {
+    border-radius: 10px;
+    background-color: rgb(108, 72, 5);
+}
